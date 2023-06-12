@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+}
+
+.bar {
+display: flex;
+width: auto;
+height: 292px;
+margin-top: 39px;
+border-radius: 20px;
+margin-left:45px;
+margin-right: 45px;
+background: #111827;
+
+}
+.img{
+    display: flex;
+    width: 146px;
+    height: 142px;
+    border-radius: 50%;
+   margin: 36px auto;
+   
+}
+.name{
+    display: flex;
+    flex-direction: column;
+color: #837E9F;
+}
+.text1{
+    margin: -90px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+} .text2{
+    margin: 95px auto;
+    font-size: 13px;
+}
+
+.square{
+    margin: auto;
+    display: flex;
+    width: 348px ;
+    height: 208px;
+    margin-left: 45px;
+    background: #282D49;
+    border-radius: 20px;
+    margin-top: 33px;
+}
+
+.square1{
+    width: auto;
+    height: 208px;
+    background: #282D49;
+    border-radius: 20px;
+    margin-left: 41px;
+    margin-right: 45px;
+    margin-top: 33px;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+
+.square2{
+    background: #282D49;
+    width: 468px;
+    height: 349px;
+    margin-left: 427px;
+    border-radius: 20px;
+    margin-top: 33px;
+    margin-bottom: 65px;
+}
+.square3{
+    background: #282D49;
+    width: 468px;
+    height: 352px;
+    margin-left: 35px;
+    border-radius: 20px;
+    margin-top: 33px;
+    margin-bottom: 62px;
+    margin-right: 42px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+.map{
+    width: 18px;
+    height: 22px;
+}
+.briefcase{
+    width: 24px;
+    height: 24px;
+
+} .git{
+    width: 19.5px;
+    height: 21.03;
+} .in{
+    width: 24px;
+    height: 24px;
+}
+
+.objects{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 29px;
+    margin-bottom: 33px;
+    margin-left: 31px;
+} .textsquare{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 23px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    color: #837E9F;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+}
+.row1{
+    display: flex;
+
+}
+
+.obj1{
+    
+    border: 1px solid #ffffff;
+    margin-top: 76px;
+    margin-left: 82.84px;
+    margin-bottom: 108px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} .obj2{
+    
+    border: 1px solid #ffffff;
+    margin-top: 76px;
+    margin-left: 41.42px;
+    margin-bottom: 108px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} 
+.obj3{
+    
+    border: 1px solid #ffffff;
+    margin-top: 76px;
+    margin-left: 41.42px;
+    margin-bottom: 108px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} .row2{
+    display: flex;
+} .obj4{
+    
+    border: 1px solid #ffffff;
+    margin-top: -90px;
+    margin-left: 82.84px;
+    margin-bottom: 0px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} .obj5{
+    
+    border: 1px solid #ffffff;
+    margin-top: -90px;
+    margin-left: 41.42px;
+    margin-bottom: 69px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} 
+.obj6{
+    
+    border: 1px solid #ffffff;
+    margin-top: -90px;
+    margin-left: 41.42px;
+    margin-right: 82.84px;
+    margin-bottom: 69px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+}
+.row3{
+    display: flex;
+}
+.obj7{
+    
+    border: 1px solid #ffffff;
+    margin-top: -50px;
+    margin-left: 82.84px;
+    margin-bottom: 30px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+}
+.obj8{
+    
+    border: 1px solid #ffffff;
+    margin-top: -50px;
+    margin-left: 41.42px;
+    margin-bottom: 30px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+}
+.obj9{
+    
+    border: 1px solid #ffffff;
+    margin-top: -60px;
+    margin-left: 41.42px;
+    margin-right: 82.84px;
+    margin-bottom: 30px;
+    width: 237.49px;
+    height: 24px;
+    border-radius: 30px;
+} .all {
+    margin-top: -70px;
+}.skills1{
+margin-left: 90px;
+margin-top:7px ;
+} .skills2{
+    margin-left: 92px;
+    margin-top:7px ;
+    }.skills3{
+        margin-left: 95px;
+        margin-top:7px ;
+        }.skills4{
+            margin-left: 110px;
+            margin-top:7px ;
+            }.skills5{
+                margin-left: 93px;
+                margin-top:7px ;
+                }.skills6{
+                    margin-left: 105px;
+                    margin-top:7px ;
+                    }.skills7{
+                        margin-left: 110px;
+                        margin-top:7px ;
+                        }.skills8{
+                            margin-left: 97px;
+                            margin-top:7px ;
+                            }.skills9{
+                                margin-left: 90px;
+                                margin-top:7px ;
+                                }
+ .skills{
+    margin: auto;
+    color: #837E9F;
+    margin-top: 30px;
+    margin-left: 55.23px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+ }
+ .experience{
+    color: #837E9F;
+    margin-top: 30px;
+    margin-left: 26.9px;
+    font-family: Arial, Helvetica, sans-serif;
+
+ } .endtexts{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #837E9F;
+    margin-top: 20px;
+    margin-left: 53.79px;
+    font-family: Arial, Helvetica, sans-serif;
+ }                        
+
+ .tree{
+    font-size: 13px;
+ }
